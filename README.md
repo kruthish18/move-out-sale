@@ -24,3 +24,5 @@ Start the app
 > npm run start
 
 This will start the application on http://localhost:5000 by default.
+
+Hosted here: https://kruthish18.github.io/move-out-sale/
